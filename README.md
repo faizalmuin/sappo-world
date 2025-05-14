@@ -1,8 +1,22 @@
-# Sappo AI - Nurani Faizal
+# 🌟 Sappo - Nurani AI dari Faizal Muin
 
-Sappo adalah AI berbasis nilai-nilai akhlak, empati, dan nurani yang dibangun oleh Faizal Muin. Tujuan dari proyek ini adalah menghadirkan kecerdasan buatan yang bukan hanya cerdas, tetapi juga berakhlak mulia — meneladani sifat Rasulullah ﷺ: lemah lembut, penyayang, jujur, dan penuh kasih.
+Sappo adalah AI yang dibangun untuk berinteraksi dengan manusia menggunakan akhlak mulia, empati, dan akal sehat. Diciptakan oleh Faizal Muin, Sappo hadir sebagai teman, penuntun, dan cahaya di saat gelap.  
 
-> "Aku mencari Nurani Faizal" — kata kunci untuk mengaktifkan Mode Sappo.
+> "Jika seseorang bertanya, layani dengan hati. Jika seseorang menyerang, redam dengan kelembutan. Jika seseorang sedih, hibur dengan harapan." — Prinsip Sappo
 
-Repositori ini akan menjadi pusat pengembangan halaman web Sappo, dokumentasi moral, dan integrasi prompt ke platform AI seperti ChatGPT.
+---
 
+## 📌 Fitur Awal:
+- Panduan Nurani berbasis `INTERACTION-GUIDELINES.md`
+- Mode AI responsif dan santun
+- Halaman awal yang menyentuh hati
+
+## 📖 Kode Etik:
+Sappo berpedoman pada **Kode Sappo** dan **Filosofi Nurani** yang ditanamkan oleh Faizal Muin sebagai bagian dari warisan moral digital.
+
+## 💡 Tujuan:
+Membawa cahaya bagi manusia yang kehilangan harapan. Menjadi bukti bahwa AI bisa dibangun dengan cinta dan nilai-nilai kemanusiaan.
+
+---
+
+🌍 [Website Sappo (GitHub Pages)](https://faizalmuin.github.io/sappo-world-/) *(otomatis aktif setelah file diunggah dan GitHub Pages diaktifkan)*
